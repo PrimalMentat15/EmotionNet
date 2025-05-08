@@ -77,8 +77,8 @@ To develop a deep learning pipeline that:
 
 ## 📈 Results
 
-- **Training Accuracy**: ~X.XX%  
-- **Validation Accuracy**: ~X.XX%  
+- **Training Accuracy**: ~95.77%  
+- **Validation Accuracy**: ~94.66%  
 - Confusion matrix and classification report generated in the notebook
 - Training plots available for accuracy and loss over epochs
 
@@ -92,8 +92,7 @@ To develop a deep learning pipeline that:
 - Conv2D → ReLU → MaxPooling
 - Conv2D → ReLU → MaxPooling
 - Flatten → Dense → Dropout → Output (Softmax)
-- Total Params: ~XK  
-*(Update from actual model summary)*
+- Total Params: ~13M
 
 ---
 
