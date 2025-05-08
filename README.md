@@ -47,7 +47,7 @@ To develop a deep learning pipeline that:
 
 ## 📊 Dataset – FER2013
 
-- Source: [Kaggle FER2013 Dataset](https://www.kaggle.com/datasets/msambare/fer2013)
+- Source: [Kaggle FER2013 Dataset]([https://www.kaggle.com/datasets/msambare/fer2013](https://www.kaggle.com/datasets/ashishpatel26/facial-expression-recognitionferchallenge/data))
 - Format: CSV with pixel values and emotion labels
 - Emotion Classes:
 0 = Angry
