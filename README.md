@@ -77,8 +77,7 @@ To develop a deep learning pipeline that:
 
 ## 📈 Results
 
-- **Training Accuracy**: ~95.77%  
-- **Validation Accuracy**: ~94.66%  
+- **Training Accuracy**: ~88.90%
 - Confusion matrix and classification report generated in the notebook
 - Training plots available for accuracy and loss over epochs
 
