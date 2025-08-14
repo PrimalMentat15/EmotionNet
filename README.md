@@ -114,8 +114,7 @@ This project is licensed under the **MIT License**.
 ## 🙋‍♂️ Author
 
 **Moksh Gupta**  
-2nd Year B.Tech CSE, Manipal University Jaipur  
-GitHub: [@PrimalMentat15](https://github.com/PrimalMentat15)
+B.Tech CSE, Manipal University Jaipur 
 
 ---
 
